@@ -22,7 +22,7 @@
   },
   "scripts": {
     "start": "nodemon --exec babel-node server.js",
-    "simple": "node server.js",
+    "simple-run": "babel-node server.js",
     "build": "webpack --mode development"
   },
   "repository": {

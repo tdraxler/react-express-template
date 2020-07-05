@@ -16,7 +16,7 @@ npm run build
 
 Finally, start the server with:
 ```
-npm run start
+npm run simple-run
 ```
 And navigate to `localhost:3000` in your web browser to view the page.
 At any time, you can terminate the server in the terminal with Ctrl+c
