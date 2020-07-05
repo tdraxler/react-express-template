@@ -23,7 +23,7 @@ module.exports = {
         publicPath: "/"
     }, 
     plugins: [
-        new webpack.HotModuleReplacementPlugin()
+        //new webpack.HotModuleReplacementPlugin(),
     ],
     devServer: {
         hot: true,
